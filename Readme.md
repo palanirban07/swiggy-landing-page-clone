@@ -1,1 +1,1 @@
-## This is zomato-landing-page
+## This is swiggy-landing-page clone
